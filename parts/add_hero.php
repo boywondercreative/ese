@@ -1,0 +1,1 @@
+<?php if (is_front_page() && is_active_sidebar( 'jumbo' )) { dynamic_sidebar('jumbo');} ?>
